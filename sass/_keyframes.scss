@@ -1,0 +1,11 @@
+@keyframes slide-left {
+    from {
+        overflow: hidden;
+        transform: translateX(50%)
+    }
+
+    to {
+        overflow: hidden;
+        transform: translateX(0)
+    }
+}
