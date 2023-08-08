@@ -1,3 +1,3 @@
-# Solis
-Maquet of the first exam in Beertroot
-https://mamba0328.github.io/Solis/
+# Solis landing page 
+HTML/SCSS only, page with theme switch 
+https://valentyndj.github.io/Solis_landing/
